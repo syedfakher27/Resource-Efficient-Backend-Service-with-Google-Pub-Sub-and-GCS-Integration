@@ -9,9 +9,9 @@ from helpers import invoke_servce
 start_http_server(8080)
 credentials, project_id = default()
 subscription_id = os.getenv("SUBSCRIPTION_ID")
-NUM_MESSAGES = int(os.getenv("BATCH_SIZE"))
-LEASE_TIME = int(os.getenv("LEASE_TIME","15"))
 SERVICE = os.getenv("SERVICE_URL")
+NUM_MESSAGES = int(os.getenv("BATCH_SIZE","5"))
+LEASE_TIME = int(os.getenv("LEASE_TIME","15"))
 
 # logger and subscriber
 
