@@ -50,4 +50,5 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Contact
 
-For any inquiries or support, please reach out to [your email/contact info].
+For any inquiries or support, please reach out to sfakher27@gmail.com
+https://www.linkedin.com/in/syed-fakher-uddin-830aa6180
